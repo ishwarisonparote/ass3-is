@@ -1,0 +1,29 @@
+
+
+
+*{
+  background-color: lightgreen;
+font-size: 20px;
+
+}
+
+
+      #tabl{
+    
+        display:none;
+      }
+      .tab{
+       // margin-top: 30px;
+       // padding-left: 60px;
+      }
+       
+      .cont{
+        //padding-top: 30px;
+       // text-align: center;
+      
+      }
+.navbar a{
+   // margin-left: 600px;
+   // text-align:center;
+    font-size: 40px;
+}
